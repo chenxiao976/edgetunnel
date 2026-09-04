@@ -1,4 +1,4 @@
-name = "edgetunnel-07"
+name = "edgetunnel-08"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
